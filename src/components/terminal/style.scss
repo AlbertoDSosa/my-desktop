@@ -1,0 +1,38 @@
+.terminal {
+    width: 100%;
+    height: 40em;
+}
+
+.terminal-menu {
+    background-color: lightgrey;
+}
+
+.terminal-content {
+    background: rgb(53, 51, 51);
+    padding: 1em;
+    width: 100%;
+    height: 100%;
+    color: yellowgreen;
+}
+
+.terminal-output {
+    margin-left: 2em;
+}
+
+.alberto-ascii {
+    font-size: .3em;
+    padding: 1em;
+    margin-bottom: 2em;
+}
+
+.terminal-menuList {
+    margin-left: .3em;
+    display: inline-flex;
+
+}
+
+.terminal-menuItem {
+    list-style: none;
+    margin: .4em .25em; 
+}
+
