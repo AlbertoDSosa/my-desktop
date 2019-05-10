@@ -27,9 +27,8 @@ class Terminal extends Component {
                         <h2>Bienvenido a mi Portafolio</h2> 
                         <p>Inserta el comando help</p>
                     </div>
-                    {/* <form className="terminal-input" action="">
-                        <input type="text" name="" value="alberto@dsosa:~$ " />
-                    </form> */}
+                    <span>alberto@alberto-portafilio:~</span>
+                    <input type="text" name="" />
                 </div>
             </div>
         );
